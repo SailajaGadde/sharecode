@@ -18,6 +18,7 @@
     [super viewDidLoad];
     
     NSLog(@"Welcome to Github");
+      NSLog(@"Welcome to Github1");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
